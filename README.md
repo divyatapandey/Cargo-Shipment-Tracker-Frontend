@@ -1,7 +1,4 @@
 
-
-## 📌 **Frontend - `frontend/README.md`**
-```md
 # 🚛 Cargo Shipment Tracker - Frontend
 
 This is the frontend for the Cargo Shipment Tracker application, built using **React.js and Redux**. It provides a dashboard to view shipments, track them on a map, and update their status.
